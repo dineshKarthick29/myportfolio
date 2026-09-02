@@ -82,6 +82,8 @@ Dinesh Karthick
 
 Computer Science Engineering Student
 
+visit my page:https://dineshkarthick29.github.io/myportfolio/
+
 📌 Interested in Software Engineering, Web Development, and AI.
 
 ---
